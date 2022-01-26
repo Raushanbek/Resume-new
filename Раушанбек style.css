@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+body{ 
+        background-color: lightblue;
+    
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+.photo{ border-radius: 80%;}
+.Name{ color: blue;}
+.gmail{ text-align: left;}
+.tel{text-align: left;}
+
